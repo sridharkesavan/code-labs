@@ -1,0 +1,12 @@
+Seattle Weather Forecast
+========================================
+
+This Afternoon: 48°F
+Mostly Cloudy
+
+Tonight: 35°F
+Mostly Clear
+
+Sunday: 46°F
+Mostly Sunny
+
